@@ -1,0 +1,15 @@
+{
+  "name": "mariohtml5-master",
+  "version": "1.0.0",
+  "description": "This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.",
+  "main": "enjine.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2"
+  }
+}
